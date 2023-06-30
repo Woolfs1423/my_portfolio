@@ -1,5 +1,5 @@
 .header{
-    background-color: red;
+    background-color:#73020C;
     color: white;
     height: 100vh;
     width: 100%;
@@ -48,6 +48,7 @@
     bottom: auto;
     left: 0%;
     right: 0%;
+    
 }
 .menu__links{
     display: flex;
